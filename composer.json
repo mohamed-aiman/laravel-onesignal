@@ -1,7 +1,7 @@
 {
-  "name": "berkayk/onesignal-laravel",
+  "name": "aimme/onesignal-laravel",
   "description": "OneSignal Push Wrapper Laravel",
-  "keywords": ["onesignal", "webpush", "push", "laravel", "laravel 5"],
+  "keywords": ["onesignal", "webpush", "push", "laravel", "laravel 9"],
   "type": "library",
   "require": {
     "php": ">=8.0",
